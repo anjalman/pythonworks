@@ -1,0 +1,17 @@
+print("message") => to print a message in console
+
+type(object) => return the data type object
+
+input("message") => to read value from console
+
+round(object,precision)
+
+len(object)
+
+range(start,stop,step)
+
+min(num1,num2)return smallest number
+
+max(num1,num2) return largest number
+
+enumerate(to get index and element)

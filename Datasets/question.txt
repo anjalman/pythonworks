@@ -1,0 +1,4 @@
+this is a pyhton program
+to print hello_world
+this is a very simple
+this pyhton program count frequancy of each word
